@@ -2,6 +2,13 @@
 
 CEO of OTW. Robimy strony i narzędzia dla małych firm.
 
+Programista: agenci AI z narzędziami, systemy webowe na Next.js, FastAPI i Supabase,
+strony i sklepy. Do tego testy, bramki jakości i zabezpieczenia (red team LLM,
+RLS, CSP), żeby to działało na produkcji.
+
+Portfolio z realizacjami i umiejętnościami: [wiktorwojtarowicz.pl](https://wiktorwojtarowicz.pl)
+(profil tekstowy: [wiktorwojtarowicz.pl/o-mnie](https://wiktorwojtarowicz.pl/o-mnie/)).
+
 Leżą tu dwa małe programy, które powstały przy realnej robocie i okazały się
 przydatne poza nią. Każdy robi jedną rzecz, każdy działa zaraz po sklonowaniu
 i żaden niczego nie wymaga do zainstalowania. Oba na licencji MIT, więc można
@@ -21,6 +28,10 @@ Strona: [otw-dev.com](https://www.otw-dev.com)
 ---
 
 ## English
+
+Developer: AI agents with tool calling, web systems on Next.js, FastAPI and Supabase,
+websites and shops, with tests, quality gates and security work behind them.
+Portfolio: [wiktorwojtarowicz.pl](https://wiktorwojtarowicz.pl).
 
 Two small tools, built during real work and useful outside it. Each does one
 thing, each runs straight after cloning, none needs anything installed. Both MIT.
