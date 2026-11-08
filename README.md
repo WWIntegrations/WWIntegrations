@@ -9,7 +9,7 @@ RLS, CSP), żeby to działało na produkcji.
 Portfolio z realizacjami i umiejętnościami: [wiktorwojtarowicz.pl](https://wiktorwojtarowicz.pl)
 (profil tekstowy: [wiktorwojtarowicz.pl/o-mnie](https://wiktorwojtarowicz.pl/o-mnie/)).
 
-Leżą tu dwa małe programy, które powstały przy realnej robocie i okazały się
+Wśród publicznych repozytoriów są dwa małe programy, które powstały przy realnej robocie i okazały się
 przydatne poza nią. Każdy robi jedną rzecz, każdy działa zaraz po sklonowaniu
 i żaden niczego nie wymaga do zainstalowania. Oba na licencji MIT, więc można
 je wziąć i przerobić pod siebie.
@@ -33,7 +33,7 @@ Developer: AI agents with tool calling, web systems on Next.js, FastAPI and Supa
 websites and shops, with tests, quality gates and security work behind them.
 Portfolio: [wiktorwojtarowicz.pl](https://wiktorwojtarowicz.pl).
 
-Two small tools, built during real work and useful outside it. Each does one
+Among the public repositories are two small tools, built during real work and useful outside it. Each does one
 thing, each runs straight after cloning, none needs anything installed. Both MIT.
 
 - [generator-og](https://github.com/WWIntegrations/generator-og) - og:image
